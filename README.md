@@ -20,14 +20,6 @@
 
 ---
 
-## Education
-
-**Budapest University of Technology and Economics**  
-_Bachelor of Science (BSc), Software Engineering_  
-_2007 – 2013_
-
----
-
 ## Employment History
 
 ### Co-Founder  
@@ -110,6 +102,14 @@ _2010 – 2012_
 - Project Management
 - Mobile & Full-Stack Architecture
 - Technology Trendspotting
+
+---
+
+## Education
+
+**Budapest University of Technology and Economics**  
+_Bachelor of Science (BSc), Software Engineering_  
+_2007 – 2013_
 
 ---
 
