@@ -42,7 +42,6 @@ _Budapest, Hungary | Sep 2023 – Present_
 **BitRaptors Kft**  
 _Budapest, Hungary | 2018 – May 2024_  
 - Co-managed a team of 18, overseeing project management and development.
-- Led projects for clients including U-Treat (iOS/Web/Backend), Swipii (iOS), FeastFox (iOS), Aroundsound (iOS), Garage Master App for BeeRides (Android), Babuci (Unity - iOS/Android), and BabyWeather (iOS).
 - Delivered 30+ digital products from concept to launch.
 - Website: [bitraptors.com](https://bitraptors.com/)
 - [BitRaptors Mobile App](https://apps.apple.com/us/app/bitraptors/id1606938049)
