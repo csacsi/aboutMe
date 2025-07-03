@@ -86,6 +86,7 @@ _2010 – 2012_
 
 - **MindOne** – Multi-phase AI agent builder ([mindone.app](https://www.mindone.app/))
 - **BitRaptors** – Product studio delivering 30+ apps ([bitraptors.com](https://bitraptors.com)), [Mobile App](https://apps.apple.com/us/app/bitraptors/id1606938049)
+- **Formlabs**  - Our collaboration focused on improving Formlabs' internal dashboard and webshop flows. We revamped their printer fleet management system, significantly refined their wholesale webshop flow, and are currently working on enhancing their product selection process.
 - **BabyWeather** – Parenting app ([App Store](https://apps.apple.com/us/app/babyweather/id1294123874))
 - **MyCorvinus** – University app ([App Store](https://apps.apple.com/hu/app/mycorvinus/id1539790856))
 - **Gasztroterkepek** – Gastronomy mapping ([Website](https://gasztroterkepek.hu/), [App Store](https://apps.apple.com/hu/app/balatoni-gasztrot%C3%A9rk%C3%A9p/id1389054905?l=hu))
