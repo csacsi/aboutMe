@@ -12,7 +12,11 @@
 
 ## Professional Summary
 
-Passionate product developer with extensive experience building innovative apps and digital solutions. I began as an iOS developer, contributing to many mobile products before co-founding a product studio, where I led teams, managed projects, and worked directly with clients to turn ideas into market-ready products. My expertise spans mobile and full-stack architecture, project management, and translating customer needs into actionable tech decisions. As co-founder of MindOne, I focused on AI agent workflows and vibecoding, leveraging the latest technologies. I believe coding with AI and vibecoding lets us focus on what we want to achieve, not just how to build it. As these tools evolve, they’ll cut boilerplate and let us create faster, shifting product development toward pure creativity and intent. I thrive at the intersection of AI, mobile, and user experience, and love creating apps as fast as possible.
+**I'm a passionate product developer with extensive experience building innovative apps and digital solutions.** I began as an iOS developer, contributing to many mobile products before co-founding a product studio, where I led teams, managed projects, and worked directly with clients to turn ideas into market-ready products.
+
+**My expertise spans mobile and full-stack architecture, project management, and translating customer needs into actionable tech decisions.** As co-founder of MindOne, I focused on AI agent workflows and vibecoding, leveraging the latest technologies to push boundaries.
+
+**I believe coding with AI and vibecoding lets us focus on what we want to achieve, not just how to build it.** As these tools evolve, they'll cut boilerplate and let us create faster, shifting product development toward pure creativity and intent. I thrive at the intersection of AI, mobile, and user experience, and love creating apps as fast as possible.
 
 ---
 
